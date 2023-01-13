@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("Hot-Fix commit2");
         System.out.println("在本地的idea中推送push");
         System.out.println("在本地的idea中使用ssh推送push");
+        System.out.println("在远端github上pull到本地的idea中 test");
     }
 }
